@@ -8,4 +8,8 @@ public class Calci {
 		System.out.println("Difference=" +(num1-num2));
 		
 	}
+	public void mult(int num1,int num2) {
+		System.out.println("mult=" +(num1*num2));
+		
+	}
 }
